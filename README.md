@@ -1,8 +1,16 @@
 
 <h1 align="center">Zenith Util</h1>
 
+
 Zenith Util は、wplaceの利用体験をより快適に、そして自分好みにカスタマイズするためのスクリプトです。
 洗練された設定画面から、複雑な操作なしでサイトの見た目や挙動を調整することができます。
+
+---
+
+[![Star it](https://img.shields.io/badge/-%E2%AD%90Star%20it-F0e000.svg?logo=&style=flat-square)](https://github.com/zenith-kamo/Zenith-Util/stargazers)
+[![version](https://img.shields.io/badge/version-2.1-00e000.svg?logo=&style=flat-square)](https://github.com/zenith-kamo/Zenith-Util/releases/tag/v2.1)
+
+> このスクリプトが気に入ったら、ぜひGitHubで**Star**を付けてください。お願いします🫡
 
 ---
 
@@ -27,6 +35,19 @@ Zenith Util は、wplaceの利用体験をより快適に、そして自分好�
 
 * 「Zoom in to see pixels」の非表示
 * 画面端に表示される通知（トースト通知）の非表示
+
+### フォントの変更 (Font Changer)
+
+画面上のフォントを変更します。
+
+* 2種類のフォントに対応(フォント追加予定)
+
+### 虹色エフェクト (Rainbow)
+
+画面上の要素を虹色にします。
+
+* レベル進捗バーを虹色にする
+* ユーザーネームを虹色にする
 
 ### 設定の保存と移行 (Import / Export)
 
@@ -54,5 +75,8 @@ wplace.live を開くと、画面内の右側のボタン群に、設定アイ�
 「Import/Export」タブから現在の設定コードをコピーして保存しておくことができます。
 
 ---
-> このスクリプトが気に入ったら、ぜひGitHubで**Star**を付けてください。お願いします🫡
+
+### 既知の問題
+
+* レベル進捗バーを虹色にした際、一部の場合で正しい進捗が表示されない
 
